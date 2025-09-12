@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Meera Rajeev</h1>
+<h3 align="center">A curious and openminded student who love to learn and try out new things</h3>
 
-<!--
-**meerarajeev06/meerarajeev06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meerarajeev06&label=Profile%20views&color=0e75b6&style=flat" alt="meerarajeev06" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meerarajeev06" alt="meerarajeev06" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **meerarajeev2006@gmail.com**
+
+- ⚡ Fun fact **I Love Piano and Singing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_br41n_l04d1ng_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_br41n_l04d1ng_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
