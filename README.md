@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Meera Rajeev</h1>
-<h3 align="center">A curious and openminded student who love to learn and try out new things</h3>
+<h1 align="center">Hi there👋, I'm Meera Rajeev</h1>
+<h3 align="center">I'm a Btech ECE student at SCTCE Trivandrum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meerarajeev06&label=Profile%20views&color=0e75b6&style=flat" alt="meerarajeev06" /> </p>
 
